@@ -1,5 +1,24 @@
 # 💫 About Me:
-Hello, my name is Armani Brown. I am a full-stack developer living in Jamaica. I enjoy playing video games, with action-adventure <br>and first-person shooters are my favourite genres. Fun facts about me: I like to discuss historical events like WW1 or WW2, as well as <br>The history of my country and the wider Caribbean. I enjoy exploring how past actions have shaped our present and how we can learn from them to make better decisions for the future.<br>
+
+Hi, I’m Armani Brown, a full-stack developer from Jamaica. Like many, I enjoy playing video games, but my favorite genres are a bit niche. I’m a big fan of survival horror titles like *Dying Light* and *Dying Light 2: Stay Human*. I also enjoy FPS games, particularly *The Finals* and most entries in the *Battlefield* franchise.  
+
+Beyond gaming, I’m also a passionate PC enthusiast. In 2024, I built my first custom computer—a project that required extensive planning, research, and overcoming the challenge of sourcing components in Jamaica. After many late nights, I finally assembled the rig:  
+- **CPU**: AMD Ryzen 5 7600  
+- **RAM**: 32GB DDR5 kit from TForce  
+- **Motherboard**: MSI Pro B650-S Wi-Fi  
+- **PSU**: MSI A750  
+- **Storage**: 1TB M.2 SSD from Western Digital  
+- **GPU**: AMD Radeon RX 7700 XT  
+- **Case**: NZXT H5 Flow (2023)  
+- **Monitor**: ViewEdge 24-Inch Gaming Monitor (165Hz, 1080p)  
+
+Building this PC was a rewarding experience, and it’s been the perfect setup for both work and gaming.  
+
+I’m also a car enthusiast and dream of modifying my vehicle if I had more disposable income. I’m not just talking about rims, tires, or superficial upgrades—I’d go all out with performance mods like upgraded intakes, turbochargers, better suspension, an enhanced exhaust system, and a high-performance transmission to ensure the power is effectively put to the ground. Customizing cars in this way combines engineering, creativity, and passion, which is something I’ve always admired.  
+
+So, this is a summary of who I am and what I like to do.  
+
+At the end of the day, I truly love the field of software engineering. There’s a unique satisfaction in building something from scratch and solving problems through code. The ever-evolving nature of the field ensures there’s always something new to learn, keeping me engaged and fully locked in.  
 
 
 ## 🌐 Socials:
